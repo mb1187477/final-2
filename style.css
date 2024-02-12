@@ -1,0 +1,336 @@
+
+.A1{
+    display: grid;
+    background-color: blueviolet;
+    align-items: center;
+    
+    
+    width: 100%;
+    border-radius: 0px 0px 150px 0px;
+    
+    
+
+}
+.uu{
+    margin-top: -20px;
+    margin-left: 20px;
+    font-size: 20px;
+   font-weight: bold;
+   color: white;
+}
+.ty{
+    display: flex;
+    color: white;   
+}
+.ty img{
+    width: 40%;
+    margin: 70px;
+}
+.ty button{
+    height: 40px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.227);
+    opacity: 1;
+    border: none;
+    margin-left: 250px;
+}
+.ff{
+    margin-top: 300px;
+    padding: 30px;
+}
+.row{
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    display: flex;
+    background-color: white;
+    
+}
+.A1 ul{
+    
+    list-style: none;
+    padding: 20px;
+    text-align: center;
+}
+.ss{
+    height: 30px;
+    display: flex;
+   margin-left: 500PX;
+   margin-top: -40px;
+   
+
+
+}
+.bn button{
+    width: 150px;
+    color: white;
+    border: none;
+    height: 25px;
+    background-color: orangered;
+    margin-left: 1350px;
+    margin-top: 20px;
+}
+.ss button{
+    color: white;
+background-color: blueviolet;
+border: none;
+margin: 20px;
+transition: all 1s;
+border-radius: 10px;
+
+}
+.ss button:hover{
+    background-color: white;
+    color: black;
+    height: 30px;
+}
+
+
+
+
+
+
+.A4{
+    text-align: center;
+}
+.bb{
+
+    padding: 30px;
+    display: flex;
+    margin-left: 60px;
+}
+.gg1{
+    margin-left: 30px;
+    text-align: center;
+    border: solid 1px;
+    border-radius: 20px;
+
+    
+}
+.gg1:hover{
+    background-color: rgb(89, 22, 89);
+    color: white;
+    
+}
+.bb img{
+    width: 20%;
+}
+.gg2{
+    text-align: center;
+    border: solid 1px;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+.gg2:hover{
+    background-color: rgb(89, 22, 89);
+    color: white;
+}
+.gg3{
+    text-align: center;
+    border: solid 1px;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+.gg3:hover{
+    background-color: rgb(89, 22, 89);
+    color: white;
+}
+.gg4{
+    text-align: center;
+    border: solid 1px;
+    margin-left: 30px;
+    border-radius: 20px;
+}
+.gg4:hover{
+    background-color: rgb(89, 22, 89);
+    color: white;
+   
+
+}
+.hh{
+    padding: 30px;
+}
+
+.hh button{
+background-color: rgb(107, 9, 107);
+    text-align: center;
+    height: 35px;
+    width: 140px;
+    margin-left: 700px;
+   border: none;
+   border-radius: 5px;
+}
+.kk{
+    background-color: purple;
+    width: 100%;
+    border-radius: 130px 0px 90px 0px;
+}
+.hh1 {
+    width: 50%;
+}
+.kk{
+   
+    display: flex;
+}
+.kk1{
+    color: white;
+    margin-top: 200px;
+    margin-left: 40px;
+    width: 40%;
+}
+.kk1 button{
+color: white;
+background-color: orangered;
+border: none;
+height: 30px;
+width: 100px;
+border-radius: 2px;
+
+}
+.hh1 img{
+    width: 90%;
+}
+.ll{
+    text-align: center;
+}
+.mm{
+    display: flex;
+}
+.mm1{
+  width: 40%;  
+  margin-left: 40px;
+  border: solid 1px;
+  margin-left: 100px;
+  text-align: center;
+}
+.mm ul{
+    color: blue;
+}
+.mm2{
+    margin-left:40px ;
+    border: solid 1px;
+    text-align: center;
+}
+.ii{
+    margin-top: 70px;
+    text-align: center;
+}
+
+.nn{
+    background-color: 
+    blueviolet;
+    width: 50%;
+    padding: 100px;
+    text-align: center;
+    height: 80px;
+    margin-left: 300px;
+    margin-top: 80px;
+    border-radius: 30px;
+}
+.nn img{
+    margin-top: -170px;
+    border-radius: 50%;
+    width: 20%;
+}
+.pp{
+    margin-left: 120px;
+    margin-top: 50px;
+    display: flex;
+}
+.pp input{
+    width: 350px;
+  height: 40PX;  
+  margin-top: 45PX;
+}
+.pp img{
+    width: 70%;
+    margin-left: 120px;
+    margin-top: 30px;
+}
+#gu{
+    height: 80px;
+
+}
+.pp button{
+    background-color: blueviolet;
+    margin: 20px;
+   
+
+}
+.pp button:hover{
+    transform: scale(2);
+}
+.row2{
+        width: 10px;
+        height: 10px;
+        border-radius: 50%;
+        display: flex;
+        background-color: blueviolet;
+}
+.footr{
+    background-color: rgb(59, 12, 59);
+    display: flex;
+    color: white;
+    margin-top: 15px;
+    border-radius: 130px 0px 0px 0px;
+}
+.ll1{
+width: 210px;
+margin-left: 30px;
+margin: 30px;
+
+}
+
+.ll2{
+    margin-left: 80px;
+    color: white;
+    margin: 30px;
+   
+    
+}
+.ll2 a{
+    margin-bottom: 100px;
+    color: white;
+    
+}
+.ll2 a:hover{
+    color: chocolate;
+}
+.ll3{
+    margin-left: 140px;
+    margin-top: 30px;
+    
+}
+.ll3 input{
+    border: none;
+    background-color:rgb(59, 12, 59) ;
+    color: white;
+}
+.ll3 button{
+    
+height: 30px;
+width: 160px;
+background-color: orangered;
+
+color: white;
+border: none;
+}
+.ll4{
+    margin-left: 90px;
+    margin-top: 30px;
+    
+}
+.ll4 a{
+   padding: 40px; 
+    color: white;
+    margin-top: px;
+}
+.ll4 a:hover{
+    color: chocolate;
+}
+.ll4 h3{
+    margin-left: -300px;
+}
+@media{
+
+}
